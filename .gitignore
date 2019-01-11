@@ -1,0 +1,13 @@
+#Eclipse
+.settings
+.project
+.classpath
+.tern-project
+.vscode
+target/*
+api/target/*
+api/.settings
+api/.classpath
+api/.tern-project
+api/.project
+/.DS_Store
